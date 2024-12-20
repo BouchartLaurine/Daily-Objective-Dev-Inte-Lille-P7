@@ -4,7 +4,7 @@ Yassen
 
 ## Jour 15 (Vendredi 20 Decembre 2024) :
 
-- [ ] Suite Brief Squedrong
+- [x] Suite Brief Squedrong
 
 ### Sass
 
